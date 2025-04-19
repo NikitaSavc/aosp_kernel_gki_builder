@@ -1,6 +1,6 @@
-KERNEL_SOURCE=https://git.codelinaro.org/clo/la/kernel/common.git
-KERNEL_SOURCE_BRANCH=aosp-new/android13-5.15-lts
-KERNEL_CONFIG=gki_defconfig
+KERNEL_SOURCE=https://git.codelinaro.org/clo/la/kernel/msm-5.15.git
+KERNEL_SOURCE_BRANCH=kernel.lnx.5.15.r57-rel
+KERNEL_CONFIG=gki_defconfig vendor/bengal_GKI.config
 KERNEL_IMAGE_NAME=Image
 ARCH=arm64
 
